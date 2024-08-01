@@ -31,8 +31,8 @@
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
-    ~~~sheel
-     git init
+ ~~~sheel
+git init
 ~~~
  contohnya:
    ![](assets/init.png)
@@ -41,8 +41,8 @@
 
    - Jalankan perintah berikut untuk menghubungkan repositori lokal Anda ke repositori GitHub yang telah Anda buat sebelumnya:
 ~~~
-     git remote add origin https://github.com/username/nama-repository.git
-   ~~~
+ git remote add origin https://github.com/username/nama-repository.git
+ ~~~
    Ganti username dan nama-repository dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
 contohnya:
 
