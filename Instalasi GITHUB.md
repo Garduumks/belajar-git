@@ -32,10 +32,12 @@
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
-    ~~~sheel
-     git config --global user.name "Nama Anda"
-     git config --global user.email "email@example.com"
+   
+~~~sheel
+git config --global user.name "Nama Anda"
+git config --global user.email "email@example.com"
  ~~~
+
 Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
  git config --list
  
@@ -45,9 +47,10 @@ Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik
 ![](assets/email.png)
 ![](assets/list.png)
 
+
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
-    ~~~ 
+    ~~~sheel
      git init
 ~~~
  contohnya:
