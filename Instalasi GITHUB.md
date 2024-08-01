@@ -36,10 +36,11 @@
      git config --global user.name "Nama Anda"
      git config --global user.email "email@example.com"
  ~~~
-
-    Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
-         git config --list
+Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
+ git config --list
+ 
  contohnya: 
+
 ![](assets/nama.png)
 ![](assets/email.png)
 ![](assets/list.png)
@@ -118,7 +119,8 @@ Jika Benar, Langkah Selanjutnya kita menggunakan perintah `git status` membantu 
 
 Perintah `ls` sangat fleksibel dan memiliki banyak opsi lain yang bisa digunakan untuk mengatur tampilan daftar isi direktori sesuai dengan kebutuhan pengguna.
 
-Berikut Hasilnya :![][ls.png]
+Berikut Hasilnya :
+![](assets/ls.png)
 
 # CD 
 
@@ -131,7 +133,8 @@ Berikut Hasilnya :![][ls.png]
 
 Dengan menggunakan perintah `cd` di Git Bash, Kita dapat dengan mudah menavigasi melalui berbagai direktori dalam sistem file Kita. Ini sangat berguna untuk mengelola proyek, mengakses file, dan menja lankan skrip atau program di lokasi yang berbeda.
 
-Berikut Hasilnya :![][cd.png]
+Berikut Hasilnya :
+![](assets/cd.png)
 
 ### Langkah-langkah yang Dijalankan
 
