@@ -177,3 +177,12 @@ Berikut Hasilnya :
 ### Kesimpulan
 
 Kita telah menggunakan serangkaian perintah `cd` di Git Bash untuk menavigasi melalui sistem file dari drive `D:`, kemudian ke direktori `obsidian`, dan akhirnya ke direktori `BELAJAR_GITHUB`. Setiap perintah `cd` digunakan untuk berpindah ke direktori yang lebih spesifik dalam hirarki direktori.
+
+## buat commit
+- Jalankan perintah berikut untuk membuat commit dengan pesan yang jelas:
+   - Perintah git commit -m *"Pesan commit"* digunakan untuk menyimpan perubahan yang telah dilakukan pada repositori Git dengan menambahkan pesan
+     ~~~sheel
+     git commit -m "Pesan commit"
+     ~~~
+    *contohnya:*
+![](assets/commit.png)
