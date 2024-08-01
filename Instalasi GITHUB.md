@@ -32,7 +32,7 @@
 ## Konfigurasi Git Lokal:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
-    ~~~git
+    ~~~sheel
      git config --global user.name "Nama Anda"
      git config --global user.email "email@example.com"
  ~~~
@@ -40,10 +40,9 @@
     Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
          git config --list
  contohnya: 
- 
-   ![](assets/nama.png)
-    ![](assets/email.png)
-  ![](assets/list.png)
+![](assets/nama.png)
+![](assets/email.png)
+![](assets/list.png)
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
@@ -71,7 +70,7 @@ contohnya:
 ~~~
 contohnya:
 
-![][add.png]
+![](assets/add.png)
 
 # GIT STATUS
 
@@ -86,10 +85,11 @@ Dengan menggunakan `git status`, Kita dapat melihat status dari repository Kita,
 
 
 
-Berikut Hasilnya :![][push.png]
+Berikut Hasilnya :
+![](assets/status1.png)
+![](assets/status2.png)
 # GIT PUSH ORIGIN (MASTER)
-
-![][gpo.png]
+![](assets/master1.png)
 
 >[!Penjelasan]
 >`git push origin master` digunakan dalam Git untuk mengunggah (push) perubahan yang ada di branch `master` pada repository lokal ke branch `master` di remote repository yang disebut `origin`.
