@@ -27,26 +27,7 @@
    - Klik tombol "New" untuk membuat repositori baru.
    ![](assets/new.png)
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".
-     ![](assets/belajar.png)
-
-## Konfigurasi Git Lokal:
-   - Buka git di laptop/komputer anda.
-   - Jalankan perintah berikut untuk mengatur identitas Anda:
-   
-~~~sheel
-git config --global user.name "Nama Anda"
-git config --global user.email "email@example.com"
- ~~~
-
-Note: untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
- git config --list
- 
- contohnya: 
-
-![](assets/nama.png)
-![](assets/email.png)
-![](assets/list.png)
-
+![](assets/belajar.png)
 
 ## Inisialisasi Git Lokal:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
