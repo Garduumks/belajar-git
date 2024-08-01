@@ -1,1 +1,0 @@
-file baru nsbvhcbSCHSC JSCYBLCSAJCVSCBSACJHSJC SNCvjhbcjksabcs bvyu f

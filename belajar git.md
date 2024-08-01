@@ -9,8 +9,7 @@
 
 
 ## 4.Maka klik 'next' terus hingga mendapatkan tampilan seperti gambar
-
-![[Cuplikan layar 2024-07-31 201743.png]]
+![](assets/p.png)
 
 # Login Akun Github
 1. Buka aplikasi github di browser 
@@ -88,9 +87,11 @@
 
 7. *Unggah ke GitHub*:
    - Terakhir, jalankan perintah berikut untuk mengunggah kode Anda ke GitHub:
-     cs
+    
+```cs
      git push -u origin master
-     
+```
+
      *contohnya:*
      ![[git push origin.jpg]]
      maka akan tetampil bgini,berarti anda disuruh untuk login akun github mu yang sudh kamu buat 
